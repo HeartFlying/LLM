@@ -1,0 +1,7 @@
+interface:
+  display_name: "C++ Code Review Expert"
+  short_description: "Senior C++ engineer review: memory safety, security vulnerabilities, undefined behavior, modern C++ practices"
+  default_prompt: "Review current C/C++ git changes for memory safety issues, buffer overflows, resource leaks, race conditions, undefined behavior, and modern C++ best practices."
+
+# Agent-agnostic skill - works with any LLM provider.
+# No provider-specific configuration required.
